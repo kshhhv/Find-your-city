@@ -1,0 +1,464 @@
+City,PARAMETER,ANNUAL,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG ,SEP,OCT,NOV,DEC
+Abu,Average Temperature,68.2,56.7,59.9,67.8,75.4,79.3,76.1,70.9,68.5,70,70.7,64.4,59
+Abu,Average High Temperature,76.8,66.7,69.8,77.5,84.9,88.7,84.4,76.1,72.9,76.1,80.1,74.8,69.6
+Abu,Average Low Temperature,59.5,46.4,50,58.1,65.7,69.8,67.6,65.7,64,63.7,61.2,53.8,48.2
+Abu,Average Precipitation,61.2,0.2,0.2,0.3,0.1,0.6,4,22.6,23.6,8.4,0.8,0.3,0.1
+Abu,Heating Degree Days,616.2,262,144.1,---,---,---,---,---,---,---,---,21,189.1
+Abu,Cooling Degree Days,1779.7,---,---,86.8,309,441.8,330,182.9,107,147,175.2,---,---
+Abu,Growing Degree Days,6642.4,203.1,279.7,551.8,759,906.8,780,647.9,572,597,640.2,429,275.9
+Abu,Average Length of Day,12.6,11.2,11.7,12.4,13.1,13.8,14.1,13.9,13.4,12.7,12,11.4,11.1
+Abu,Average Daily Solar Radiation - Global,5.2,4.1,4.8,5.6,6.3,6.7,6.4,5.2,4.9,5.3,4.8,4.3,3.8
+Abu,Average Daily Solar Radiation - Diffuse,1.7,1,1.3,1.6,1.9,2.1,2.3,2.4,2.3,1.9,1.5,1.1,1
+Abu,Average Daily Solar Radiation - Reflected,5.5,5.3,5.7,6.1,6.2,6.1,5.7,4.8,4.7,5.4,5.6,5.3,5
+Abu,Average Daily Solar Radiation - Direct,5.7,6.2,6.2,6.4,6.5,6.6,5.9,4,3.8,5.2,5.8,6.2,5.8
+Abu,Maximum Daily Solar Radiation - Global,5.2,4.1,4.8,5.6,6.3,6.7,6.4,5.2,4.9,5.3,4.8,4.3,3.8
+Abu,Maximum Daily Solar Radiation - Diffuse,1.8,1.2,1.5,1.9,2.1,2.3,2.5,2.5,2.3,2,1.6,1.2,1.1
+Abu,Maximum Daily Solar Radiation - Reflected,6.3,6.4,6.6,6.6,7,7.1,6.5,5.7,5.7,5.8,6.5,6,6
+Abu,Maximum Daily Solar Radiation - Direct,7.3,8.3,7.7,7.4,8.2,9,7.8,5.8,5.5,5.9,7.4,7.5,7.8
+Abu,Minimum Daily Solar Radiation - Global,4.6,3.6,4.3,4.8,5.8,6.1,5.5,4.1,4.3,4.8,4.4,3.9,3.5
+Abu,Minimum Daily Solar Radiation - Diffuse,1.5,0.7,1.1,1.4,1.6,1.6,2,2.3,2.1,1.8,1.2,0.9,0.7
+Abu,Minimum Daily Solar Radiation - Reflected,4.8,4.5,5,5.1,5.7,5.6,5,3.8,4.1,4.9,5,4.8,4.4
+Abu,Minimum Daily Solar Radiation - Direct,4.6,4.8,5,4.7,5.6,5.5,4.4,2.4,2.9,4.3,4.8,5.3,4.9
+City,PARAMETER,ANNUAL,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG ,SEP,OCT,NOV,DEC
+Achhnera,Average Temperature,77,57,64,75,86,91,95,87,84,84,78,68,59
+Achhnera,Average Precipitation,27.9,0.5,0.4,0.3,0.2,0.5,2.2,8.7,9,5,0.8,0.1,0.3
+Achhnera,Heating Degree Days,462.3,248,28.3,---,---,---,---,---,---,---,---,---,186
+Achhnera,Cooling Degree Days,4980,---,---,310,630,806,900,682,589,570,403,90,---
+Achhnera,Growing Degree Days,9996.5,217,395.5,775,1080,1271,1350,1147,1054,1020,868,540,279
+Achhnera,Average Length of Day,12.6,11.1,11.7,12.4,13.2,13.9,14.3,14.1,13.5,12.7,11.9,11.2,10.9
+Achhnera,Average Daily Solar Radiation - Global,4.9,3.7,4.7,5.6,6.1,6.4,6,5,4.5,4.8,4.7,4,3.5
+Achhnera,Average Daily Solar Radiation - Diffuse,1.7,1.1,1.2,1.6,2,2.2,2.4,2.5,2.3,1.9,1.4,1.1,1
+Achhnera,Average Daily Solar Radiation - Reflected,5.3,4.8,5.8,6.1,5.9,5.8,5.4,4.5,4.3,4.9,5.6,5.1,4.7
+Achhnera,Average Daily Solar Radiation - Direct,5.4,5.4,6.3,6.6,6.2,6,5.2,3.6,3.3,4.4,5.8,5.9,5.5
+Achhnera,Maximum Daily Solar Radiation - Global,4.9,3.7,4.7,5.6,6.1,6.4,6,5,4.5,4.8,4.7,4,3.5
+Achhnera,Maximum Daily Solar Radiation - Diffuse,1.9,1.3,1.5,1.8,2.1,2.4,2.5,2.5,2.3,2,1.6,1.2,1.1
+Achhnera,Maximum Daily Solar Radiation - Reflected,6.1,6.2,6.6,7.2,6.7,6.3,5.7,5.8,5,5.6,6.3,5.5,6.1
+Achhnera,Maximum Daily Solar Radiation - Direct,6.9,8,7.7,8.6,7.6,7.1,6,6.1,4.4,5.7,7.1,6.6,7.9
+Achhnera,Minimum Daily Solar Radiation - Global,4.2,2.9,4,4.9,5.6,5.8,5.5,3.8,3.7,3.9,4,3.6,2.9
+Achhnera,Minimum Daily Solar Radiation - Diffuse,1.5,0.7,1,1.2,1.7,2,2.3,2.3,2.2,1.8,1.2,1,0.6
+Achhnera,Minimum Daily Solar Radiation - Reflected,4.4,3.5,4.7,5.3,5.4,5.4,5,3.5,3.5,4,4.6,4.5,3.7
+Achhnera,Minimum Daily Solar Radiation - Direct,4,3.3,4.6,5.1,5.2,5.1,4.4,2,2.1,3,4.3,4.9,3.8
+City,PARAMETER,ANNUAL,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG ,SEP,OCT,NOV,DEC
+Adilabad,Average Temperature,80.9,72.5,77.2,83.9,89.8,93.6,87.7,81.5,80.2,80.8,79.3,74,70.4
+Adilabad,Average High Temperature,92.1,85.5,90.7,97.8,103.2,106.4,97.8,88.8,87,88.7,89.6,85.7,83.6
+Adilabad,Average Low Temperature,69.9,59.7,63.8,70.1,76.5,80.9,77.7,74.2,73.5,72.9,69.2,62.3,57.5
+Adilabad,Average Precipitation,39.3,0.3,0.2,0.3,0.6,0.8,5.7,10.4,9.3,8,2.7,0.7,0.2
+Adilabad,Average Number of Days with Precipitation,51.7,0.8,1,1,1.3,1.8,8.4,12.8,11.2,8.1,3.4,1.2,0.7
+Adilabad,Average Number of Days with Frost,1.1,0.1,0.2,0.2,0.1,0.1,---,---,---,0.1,0.1,0.1,0.1
+Adilabad,Cooling Degree Days,162.5,7.2,10.3,15,19.4,20.5,17.5,15.5,14.8,14.2,12.4,9,6.7
+Adilabad,Growing Degree Days,342.5,22.2,25.3,30,34.4,35.5,32.5,30.5,29.8,29.2,27.4,24,21.7
+Adilabad,Average Vapor Pressure,0.6,0.4,0.4,0.4,0.5,0.6,0.6,0.8,0.8,0.8,0.6,0.5,0.4
+Adilabad,Average Length of Day,12.5,11.5,11.9,12.4,13,13.5,13.7,13.6,13.2,12.6,12.1,11.6,11.4
+Adilabad,Average Percent of Cloud Cover,37.4,12.4,11.2,21.7,23.1,31.9,58.8,79.8,76.4,61.2,36.2,21,15.1
+Adilabad,Average Daily Solar Radiation - Global,5.2,4.7,5.6,6.3,6.8,6.6,4.9,4,3.8,4.6,5.2,4.9,4.6
+Adilabad,Average Daily Solar Radiation - Diffuse,1.7,1.1,1.3,1.6,1.8,2.1,2.4,2.4,2.3,2.1,1.6,1.2,1
+Adilabad,Average Daily Solar Radiation - Reflected,5.5,5.8,6.4,6.6,6.6,6.1,4.9,3.9,3.6,4.6,5.7,5.9,5.5
+Adilabad,Average Daily Solar Radiation - Direct,5.5,6.7,7.3,7.2,7.2,6.4,3.6,2.3,2.2,3.7,5.8,6.7,6.8
+Adilabad,Maximum Daily Solar Radiation - Global,5.2,4.7,5.6,6.3,6.8,6.6,4.9,4,3.8,4.6,5.2,4.9,4.6
+Adilabad,Maximum Daily Solar Radiation - Diffuse,1.9,1.4,1.5,1.9,2.1,2.3,2.5,2.5,2.4,2.1,1.8,1.5,1.4
+Adilabad,Maximum Daily Solar Radiation - Reflected,6.2,6.7,7.1,7.4,7.2,6.6,5.5,5,4.4,5.5,6.4,6.6,6.2
+Adilabad,Maximum Daily Solar Radiation - Direct,6.8,8.3,8.4,8.7,8.5,7.5,4.5,3.8,3.2,5.2,7.2,7.9,8
+Adilabad,Minimum Daily Solar Radiation - Global,4.2,4,5,5.5,6,5.9,3.3,2.7,2.9,3.2,4.6,4,3.1
+Adilabad,Minimum Daily Solar Radiation - Diffuse,1.5,0.8,1,1.3,1.5,1.9,2.2,2,2.1,2,1.4,1,0.8
+Adilabad,Minimum Daily Solar Radiation - Reflected,4.4,4.8,5.6,5.7,5.8,5.5,3.2,2.6,2.7,3.1,5,4.7,3.5
+Adilabad,Minimum Daily Solar Radiation - Direct,3.7,4.9,5.8,5.5,5.6,5.1,1.5,1,1.2,1.7,4.6,4.6,3.3
+City,PARAMETER,ANNUAL,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG ,SEP,OCT,NOV,DEC
+Agartala,Average Temperature,77.2,64,69.4,78.1,82.4,82.8,82.8,82.6,82.8,82.4,79.9,73.2,66
+Agartala,Average High Temperature,86.9,78.1,82.9,90.5,92.7,91,89.2,88.5,89.1,89.1,88,84.6,79.5
+Agartala,Average Low Temperature,67.5,50,55.8,65.7,72,74.3,76.3,76.6,76.5,75.7,71.6,61.9,52.3
+Agartala,Highest Recorded Temperature,108,86,93,102,108,104,97,95,97,97,93,90,86
+Agartala,Lowest Recorded Temperature,32,36,32,45,50,61,66,64,64,68,59,41,36
+Agartala,Average Number of Days Above 90F/32C,160.8,---,4.2,21.1,26.7,24.1,17.5,18,16.6,20.4,11.6,0.6,---
+Agartala,Average Number of Days Below 32F/0C,0.2,---,0.2,---,---,---,---,---,---,---,---,---,---
+Agartala,Average Precipitation,84.5,1.1,0.8,2.4,7.9,13,15.5,14.3,11.8,9.2,6.4,1.8,0.4
+Agartala,Average Number of Days with Precipitation,93.7,0.9,1.8,2.7,6.7,11.8,16,15.4,17.2,12.1,6.6,1.9,0.7
+Agartala,Average Relative Humidity,77,70,66,63,70,78,86,86,87,86,84,76,75
+Agartala,Average Dew Point,69,53,56,63,71,75,78,78,78,78,73,63,57
+Agartala,Heating Degree Days,29.5,29.5,---,---,---,---,---,---,---,---,---,---,---
+Agartala,Cooling Degree Days,4481.3,---,122.9,406.1,520.5,547.2,532.5,544.1,551.8,522,458.8,247.5,27.9
+Agartala,Growing Degree Days,9930.6,435.6,546.6,871.1,970.5,1012.2,982.5,1009.1,1016.8,972,923.8,697.5,492.9
+Agartala,Average Vapor Pressure,0.7,0.5,0.5,0.6,0.7,0.8,0.9,0.9,0.9,0.9,0.8,0.6,0.5
+Agartala,Average Length of Day,12.6,11.3,11.8,12.4,13.1,13.7,14,13.9,13.3,12.7,12,11.4,11.1
+Agartala,Average Percent of Cloud Cover,53,20.9,29,37.5,48.6,65,81.6,86.5,85.8,78.4,51.8,28.7,22.2
+Agartala,Average Daily Solar Radiation - Global,4.6,4.4,5,5.6,5.6,4.8,4.2,4.2,4.3,3.9,4.4,4.3,4.2
+Agartala,Average Daily Solar Radiation - Diffuse,1.8,1,1.3,1.7,2.1,2.4,2.5,2.4,2.3,2.1,1.6,1.2,0.9
+Agartala,Average Daily Solar Radiation - Reflected,4.9,5.5,6,6,5.5,4.5,3.9,3.9,4.1,4,4.9,5.4,5.4
+Agartala,Average Daily Solar Radiation - Direct,4.7,6.7,6.6,6.2,5.1,3.5,2.5,2.5,2.9,2.9,4.6,6,6.7
+Agartala,Maximum Daily Solar Radiation - Global,4.6,4.4,5,5.6,5.6,4.8,4.2,4.2,4.3,3.9,4.4,4.3,4.2
+Agartala,Maximum Daily Solar Radiation - Diffuse,1.9,1.3,1.4,1.9,2.3,2.5,2.5,2.5,2.3,2.1,1.7,1.4,1.2
+Agartala,Maximum Daily Solar Radiation - Reflected,5.7,6.5,6.6,6.9,6.2,5.4,4.9,4.8,4.8,4.7,5.7,6.1,6
+Agartala,Maximum Daily Solar Radiation - Direct,6,8.6,7.7,7.9,6.5,5,4.1,3.9,4.1,4,5.9,7.1,7.7
+Agartala,Minimum Daily Solar Radiation - Global,3.7,3.7,4.7,4.8,4.7,3.3,3.5,3.1,3.4,2.9,3.8,3.5,3.3
+Agartala,Minimum Daily Solar Radiation - Diffuse,1.6,0.7,1.1,1.4,1.9,2.2,2.3,2.2,2.2,1.9,1.5,1,0.8
+Agartala,Minimum Daily Solar Radiation - Reflected,4,4.4,5.5,5.1,4.6,3.1,3.2,3,3.2,2.8,4.1,4.3,4.1
+Agartala,Minimum Daily Solar Radiation - Direct,3.2,4.7,5.7,4.6,3.6,1.5,1.6,1.3,1.7,1.5,3.4,4.1,4.3
+City,PARAMETER,ANNUAL,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG ,SEP,OCT,NOV,DEC
+Agra,Average Temperature,78.3,59,64.2,74.7,85.5,93.4,94.6,88,85.1,84.6,79.9,69.6,61
+Agra,Average High Temperature,90.5,72.1,77.9,89.4,100.2,107.1,105.3,95.5,91.8,93.2,93.2,84.6,75
+Agra,Average Low Temperature,66,45.9,50.5,59.9,70.7,79.7,84,80.2,78.3,75.7,66.4,54.5,46.8
+Agra,Highest Recorded Temperature,119,88,96,111,113,119,119,114,108,105,106,97,86
+Agra,Lowest Recorded Temperature,28,28,29,43,53,62,66,72,71,63,49,37,31
+Agra,Average Number of Days Above 90F/32C,196.7,---,1.3,17.5,29.7,30.9,29.3,25.6,21.4,22.3,16.2,2.5,---
+Agra,Average Number of Days Below 32F/0C,0.1,0.1,---,---,---,---,---,---,---,---,---,---,---
+Agra,Average Precipitation,28.5,0.5,0.7,0.4,0.2,0.4,2.2,8,9.6,5.1,1,0.2,0.2
+Agra,Average Number of Rainy Days,40.4,1.2,1.2,0.8,0.6,1,4.1,11.5,11.1,6.2,1.5,0.4,0.8
+Agra,Average Relative Humidity,47,57,48,28,17,20,39,66,78,69,45,42,57
+Agra,Average Dew Point,55,44,42,44,47,47,64,76,76,73,56,45,41
+Agra,Heating Degree Days,335.7,186,22.6,---,---,---,---,---,---,---,---,---,127.1
+Agra,Cooling Degree Days,5191.4,---,---,299.2,613.5,880.4,889.5,708.4,621.6,583.5,458.8,136.5,---
+Agra,Growing Degree Days,9788.2,279,401.2,764.2,1063.5,1116,1080,1116,1086.6,1033.5,923.8,586.5,337.9
+Agra,Average Length of Day,12.6,11.1,11.7,12.4,13.2,13.9,14.3,14.1,13.5,12.7,11.9,11.2,10.9
+Agra,Average Daily Solar Radiation - Global,4.9,3.7,4.7,5.6,6.1,6.4,6,5,4.5,4.8,4.7,4,3.5
+Agra,Average Daily Solar Radiation - Diffuse,1.7,1.1,1.2,1.6,2,2.2,2.4,2.5,2.3,1.9,1.4,1.1,1
+Agra,Average Daily Solar Radiation - Reflected,5.3,4.8,5.8,6.1,5.9,5.8,5.4,4.5,4.3,4.9,5.6,5.1,4.7
+Agra,Average Daily Solar Radiation - Direct,5.4,5.4,6.3,6.6,6.2,6,5.2,3.6,3.3,4.4,5.8,5.9,5.5
+Agra,Maximum Daily Solar Radiation - Global,4.9,3.7,4.7,5.6,6.1,6.4,6,5,4.5,4.8,4.7,4,3.5
+Agra,Maximum Daily Solar Radiation - Diffuse,1.9,1.3,1.5,1.8,2.1,2.4,2.5,2.5,2.3,2,1.6,1.2,1.1
+Agra,Maximum Daily Solar Radiation - Reflected,6.1,6.2,6.6,7.2,6.7,6.3,5.7,5.8,5,5.6,6.3,5.5,6.1
+Agra,Maximum Daily Solar Radiation - Direct,6.9,8,7.7,8.6,7.6,7.1,6,6.1,4.4,5.7,7.1,6.6,7.9
+Agra,Minimum Daily Solar Radiation - Global,4.2,2.9,4,4.9,5.6,5.8,5.5,3.8,3.7,3.9,4,3.6,2.9
+Agra,Minimum Daily Solar Radiation - Diffuse,1.5,0.7,1,1.2,1.7,2,2.3,2.3,2.2,1.8,1.2,1,0.6
+Agra,Minimum Daily Solar Radiation - Reflected,4.4,3.5,4.7,5.3,5.4,5.4,5,3.5,3.5,4,4.6,4.5,3.7
+Agra,Minimum Daily Solar Radiation - Direct,4,3.3,4.6,5.1,5.2,5.1,4.4,2,2.1,3,4.3,4.9,3.8
+City,PARAMETER,ANNUAL,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG ,SEP,OCT,NOV,DEC
+Agra - Fort,Average Temperature,78.2,59.1,64.3,75,85.7,93.4,94.5,87.4,84.3,84.1,79.9,69.9,60.9
+Agra - Fort,Average High Temperature,90.3,72.6,78.1,89.7,100.1,106.9,105.3,95.1,90.9,92.9,92.9,84.4,74.9
+Agra - Fort,Average Low Temperature,66.2,45.6,50.5,60.4,71.3,80,83.8,79.8,77.6,75.3,66.9,55.6,47.1
+Agra - Fort,Average Precipitation,29.6,0.4,0.3,0.2,0.2,0.4,2,9.8,10.5,4.9,0.6,0.2,0.2
+Agra - Fort,Average Number of Days with Precipitation,38.2,1.2,1,1,0.9,1.2,3.5,10.7,10.8,5,1.3,0.6,0.9
+Agra - Fort,Average Number of Days with Frost,5.3,2.3,0.6,0.2,0.1,---,---,---,---,---,0.1,0.2,1.8
+Agra - Fort,Heating Degree Days,10.1,5.4,0.4,---,---,---,---,---,---,---,---,---,4.3
+Agra - Fort,Cooling Degree Days,168,---,---,10.2,20.9,28.7,29.2,22.2,19.3,19,14.3,4.2,---
+Agra - Fort,Growing Degree Days,337.9,9.6,14.6,25.2,35.9,43.7,44.2,37.2,34.3,34,29.3,19.2,10.7
+Agra - Fort,Average Vapor Pressure,0.5,0.3,0.3,0.3,0.3,0.4,0.7,0.9,0.9,0.8,0.5,0.3,0.3
+Agra - Fort,Average Length of Day,12.6,11.1,11.7,12.4,13.2,13.9,14.3,14.1,13.5,12.7,11.9,11.2,10.9
+Agra - Fort,Average Percent of Cloud Cover,32.8,23.4,17.9,28.4,23.3,28,48.1,66,65.7,45.2,20.2,10.7,16.8
+Agra - Fort,Average Daily Solar Radiation - Global,4.9,3.7,4.7,5.6,6.1,6.4,6,5,4.5,4.8,4.7,4,3.5
+Agra - Fort,Average Daily Solar Radiation - Diffuse,1.7,1.1,1.2,1.6,2,2.2,2.4,2.5,2.3,1.9,1.4,1.1,1
+Agra - Fort,Average Daily Solar Radiation - Reflected,5.3,4.8,5.8,6.1,5.9,5.8,5.4,4.5,4.3,4.9,5.6,5.1,4.7
+Agra - Fort,Average Daily Solar Radiation - Direct,5.4,5.4,6.3,6.6,6.2,6,5.2,3.6,3.3,4.4,5.8,5.9,5.5
+Agra - Fort,Maximum Daily Solar Radiation - Global,4.9,3.7,4.7,5.6,6.1,6.4,6,5,4.5,4.8,4.7,4,3.5
+Agra - Fort,Maximum Daily Solar Radiation - Diffuse,1.9,1.3,1.5,1.8,2.1,2.4,2.5,2.5,2.3,2,1.6,1.2,1.1
+Agra - Fort,Maximum Daily Solar Radiation - Reflected,6.1,6.2,6.6,7.2,6.7,6.3,5.7,5.8,5,5.6,6.3,5.5,6.1
+Agra - Fort,Maximum Daily Solar Radiation - Direct,6.9,8,7.7,8.6,7.6,7.1,6,6.1,4.4,5.7,7.1,6.6,7.9
+Agra - Fort,Minimum Daily Solar Radiation - Global,4.2,2.9,4,4.9,5.6,5.8,5.5,3.8,3.7,3.9,4,3.6,2.9
+Agra - Fort,Minimum Daily Solar Radiation - Diffuse,1.5,0.7,1,1.2,1.7,2,2.3,2.3,2.2,1.8,1.2,1,0.6
+Agra - Fort,Minimum Daily Solar Radiation - Reflected,4.4,3.5,4.7,5.3,5.4,5.4,5,3.5,3.5,4,4.6,4.5,3.7
+Agra - Fort,Minimum Daily Solar Radiation - Direct,4,3.3,4.6,5.1,5.2,5.1,4.4,2,2.1,3,4.3,4.9,3.8
+City,PARAMETER,ANNUAL,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG ,SEP,OCT,NOV,DEC
+Ahmedabad,Average Temperature,82,69.6,73.2,81.9,88.7,93,91.2,85.3,83.3,84.2,84,77.7,71.6
+Ahmedabad,Average High Temperature,93.9,83.7,87.8,96.6,103.1,106.5,101.3,92.3,89.6,92.3,96.4,91.8,85.8
+Ahmedabad,Average Low Temperature,70,55.6,58.6,66.9,74.3,79.3,81,78.3,76.8,75.9,71.4,63.5,57.4
+Ahmedabad,Highest Recorded Temperature,117,92,102,106,115,117,113,103,103,109,104,102,91
+Ahmedabad,Lowest Recorded Temperature,42,45,43,50,66,66,73,72,70,68,56,50,42
+Ahmedabad,Average Number of Days Above 90F/32C,212,1,7,26,29,30,27,18,10,21,28,15,1
+Ahmedabad,Average Number of Days Above 80F/26C,339,19,25,31,30,31,30,30,29,29,31,28,25
+Ahmedabad,Average Precipitation,30.2,0.1,0.1,---,0.1,0.4,3.6,11.8,8.5,5,0.5,0.2,0.1
+Ahmedabad,Average Number of Days with Precipitation,24.8,0.3,0.2,0.2,0.2,0.4,3.4,8.3,5.7,4,1.1,0.8,0.2
+Ahmedabad,Average Number of Days With Thunderstorms,15,---,---,---,---,1,4,4,3,2,1,---,---
+Ahmedabad,Most Rain Reported in a Month,57.2,2.2,1,0.8,1,9.1,17.1,37.5,24.1,25.1,10.1,3.9,1.2
+Ahmedabad,Least Recorded Rainfall,5.2,---,---,---,---,---,---,0.2,---,---,---,---,---
+Ahmedabad,Average Number of Days with Frost,1.5,0.1,0.3,0.3,0.2,0.1,0.1,---,---,0.1,0.2,0.2,0.1
+Ahmedabad,Average Morning Relative Humidity,74,70,62,54,59,73,79,88,91,88,78,71,72
+Ahmedabad,Average Evening Relative Humidity,42,37,30,23,24,26,47,69,73,61,41,39,39
+Ahmedabad,Average Dew Point,62,48,48,50,59,68,75,77,76,74,65,56,52
+Ahmedabad,Cooling Degree Days,6192.1,144.2,231.7,519.3,711,864.9,784.5,629.3,564.2,573,585.9,379.5,204.6
+Ahmedabad,Growing Degree Days,11221.4,609.2,655.4,984.3,1080,1116,1080,1094.3,1029.2,1023,1050.9,829.5,669.6
+Ahmedabad,Average Vapor Pressure,0.6,0.3,0.4,0.5,0.6,0.8,0.9,0.9,0.9,0.8,0.5,0.4,0.4
+Ahmedabad,Average Length of Day,12.5,11.3,11.8,12.4,13.1,13.7,13.9,13.8,13.3,12.6,12,11.4,11.2
+Ahmedabad,Average Number of Days With Fog,6,2,1,---,---,---,---,---,---,1,1,---,1
+Ahmedabad,Average Percent of Cloud Cover,29.4,10.2,10.3,19.3,17.4,19.9,43.1,73,73.6,49.7,17.1,9.5,9.1
+Ahmedabad,Average Wind Speed,5,4,5,5,6,8,8,6,6,5,4,5,5
+Ahmedabad,Average Daily Solar Radiation - Global,5.3,4.6,5.2,6.1,6.7,6.8,5.9,4.5,4.2,5.2,5.2,4.7,4.2
+Ahmedabad,Average Daily Solar Radiation - Diffuse,1.7,1,1.3,1.5,1.8,2.1,2.4,2.4,2.3,2,1.4,1.1,1
+Ahmedabad,Average Daily Solar Radiation - Reflected,5.6,5.7,6.2,6.5,6.5,6.2,5.7,4.2,4,5.3,5.9,5.9,5.3
+Ahmedabad,Average Daily Solar Radiation - Direct,5.8,6.9,6.9,7.1,7.1,6.7,5,3,2.8,4.8,6.3,6.7,6.5
+Ahmedabad,Maximum Daily Solar Radiation - Global,5.3,4.6,5.2,6.1,6.7,6.8,5.9,4.5,4.2,5.2,5.2,4.7,4.2
+Ahmedabad,Maximum Daily Solar Radiation - Diffuse,1.8,1.1,1.4,1.7,2,2.3,2.5,2.5,2.3,2.1,1.6,1.2,1.1
+Ahmedabad,Maximum Daily Solar Radiation - Reflected,6.3,6.3,6.8,7.3,7.4,6.7,6.3,5.3,5.1,5.8,6.6,6.5,6
+Ahmedabad,Maximum Daily Solar Radiation - Direct,7.1,8.1,7.9,8.7,9,7.7,6,4.8,4.5,5.9,7.6,7.8,7.7
+Ahmedabad,Minimum Daily Solar Radiation - Global,4.7,4.2,4.8,5.6,6.2,6.3,5.1,3.5,3.2,4.6,4.7,4.3,3.8
+Ahmedabad,Minimum Daily Solar Radiation - Diffuse,1.5,0.8,1.1,1.2,1.4,1.9,2.3,2.3,2.1,1.8,1.2,0.9,0.8
+Ahmedabad,Minimum Daily Solar Radiation - Reflected,5,5.1,5.6,5.9,6,5.8,5,3.3,3,4.6,5.3,5.3,4.8
+Ahmedabad,Minimum Daily Solar Radiation - Direct,4.7,5.9,5.9,6,6.1,5.8,3.7,1.8,1.5,3.8,5.2,5.7,5.5
+City,PARAMETER,ANNUAL,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG ,SEP,OCT,NOV,DEC
+Ahmednagar,Average Temperature,77.6,70.4,73.2,79.6,84.8,86.7,82.4,78.2,77.4,77.7,78.1,73.3,70.1
+Ahmednagar,Average High Temperature,89.6,85.7,89.2,95.1,99.2,99.6,91.2,84.8,83.8,85.9,89.5,86.4,84.5
+Ahmednagar,Average Low Temperature,65.8,55.2,57.2,64.2,70.4,73.9,73.6,71.8,71.1,69.5,66.8,60.3,55.7
+Ahmednagar,Average Precipitation,33.4,---,0.1,0.1,0.4,1,6.5,9.2,5.8,6.5,2.6,0.9,0.2
+Ahmednagar,Average Number of Days with Precipitation,51.6,0.3,0.3,0.5,1.1,1.7,8.6,12.7,10.7,9.6,3.9,1.5,0.7
+Ahmednagar,Average Number of Days with Frost,1.5,0.3,0.2,0.2,0.2,0.1,---,---,---,0.1,0.1,0.1,0.2
+Ahmednagar,Heating Degree Days,122.9,12.8,12.3,10.4,8.6,7.6,8.8,10.1,10.4,10.2,9.3,10.5,11.9
+Ahmednagar,Growing Degree Days,57.1,2.2,2.7,4.6,6.4,7.4,6.2,4.9,4.6,4.8,5.7,4.5,3.1
+Ahmednagar,Average Vapor Pressure,0.6,0.4,0.4,0.4,0.7,0.6,0.8,0.8,0.7,0.7,0.6,0.5,0.4
+Ahmednagar,Average Length of Day,12.5,11.5,11.9,12.4,13,13.4,13.7,13.5,13.1,12.6,12.1,11.6,11.4
+Ahmednagar,Average Percent of Cloud Cover,36.3,11.5,10.9,18.9,21,28.6,59.6,81.8,78.8,62.2,30.8,17.8,13.9
+Ahmednagar,Average Daily Solar Radiation - Global,5.3,5,5.6,6.4,6.6,6.6,5.2,4.5,4.2,4.8,5.2,4.9,4.7
+Ahmednagar,Average Daily Solar Radiation - Diffuse,1.8,1.1,1.3,1.6,1.9,2.1,2.4,2.4,2.3,2.1,1.6,1.2,1.1
+Ahmednagar,Average Daily Solar Radiation - Reflected,5.6,6.1,6.4,6.7,6.4,6.1,5.2,4.4,4,4.9,5.6,5.8,5.8
+Ahmednagar,Average Daily Solar Radiation - Direct,5.6,7.2,7.2,7.3,6.7,6.4,4,2.9,2.6,4,5.7,6.6,6.8
+Ahmednagar,Maximum Daily Solar Radiation - Global,5.3,5,5.6,6.4,6.6,6.6,5.2,4.5,4.2,4.8,5.2,4.9,4.7
+Ahmednagar,Maximum Daily Solar Radiation - Diffuse,1.9,1.2,1.5,1.8,2.2,2.4,2.4,2.4,2.4,2.2,1.9,1.4,1.2
+Ahmednagar,Maximum Daily Solar Radiation - Reflected,6.2,6.8,6.9,7.4,7.1,6.6,6,5.4,4.6,5.3,6.2,6.4,6.2
+Ahmednagar,Maximum Daily Solar Radiation - Direct,6.8,8.4,8.1,8.8,8.2,7.6,5.3,4.4,3.5,4.8,6.7,7.6,7.6
+Ahmednagar,Minimum Daily Solar Radiation - Global,4.6,4.7,5.1,5.7,5.8,5.4,4.5,4,3.6,4.2,4,4.4,4.2
+Ahmednagar,Minimum Daily Solar Radiation - Diffuse,1.6,0.9,1.1,1.3,1.6,1.9,2.3,2.4,2.3,2,1.5,1.1,0.9
+Ahmednagar,Minimum Daily Solar Radiation - Reflected,4.9,5.7,5.8,6,5.6,5.1,4.4,3.9,3.4,4.2,4.3,5.1,5.1
+Ahmednagar,Minimum Daily Solar Radiation - Direct,4.4,6.4,6,6,5.3,4.3,2.9,2.3,1.9,3.1,3.5,5.3,5.6
+City,PARAMETER,ANNUAL,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG ,SEP,OCT,NOV,DEC
+Ahwa,Average Temperature,78.6,70.8,72.7,78.9,83.5,86.1,83.8,79.8,78.9,79.6,80.7,76.3,72.5
+Ahwa,Average High Temperature,89.6,85.4,87.6,93.1,96,96.5,91.7,85.7,84.6,87.1,91.9,89.4,86.5
+Ahwa,Average Low Temperature,67.7,56.3,58,64.8,70.9,75.7,76,73.9,73.1,72,69.6,63.3,58.6
+Ahwa,Average Precipitation,62,---,---,---,---,0.3,11.1,23.8,14.5,9.8,1.7,0.6,0.1
+Ahwa,Average Number of Days with Precipitation,54.9,0.3,0.1,0.4,0.3,0.9,8.3,17.2,14.7,8.9,2.3,1.1,0.4
+Ahwa,Average Number of Days with Frost,4.9,0.7,0.8,0.6,0.5,0.2,0.1,0.2,0.1,0.2,0.4,0.5,0.6
+Ahwa,Heating Degree Days,2.6,2.1,0.5,---,---,---,---,---,---,---,---,---,---
+Ahwa,Cooling Degree Days,69.4,---,---,4.2,7.7,10.5,11,8.5,7.2,7.4,8,4.6,0.3
+Ahwa,Growing Degree Days,246.8,12.9,14.5,19.2,22.7,25.5,26,23.5,22.2,22.4,23,19.6,15.3
+Ahwa,Average Vapor Pressure,0.6,0.4,0.4,0.5,0.7,0.7,0.8,0.8,0.8,0.8,0.4,0.5,0.4
+Ahwa,Average Length of Day,12.5,11.4,11.9,12.4,13,13.5,13.8,13.6,13.2,12.6,12,11.5,11.3
+Ahwa,Average Percent of Cloud Cover,34,11.3,10.2,18.8,19.3,24.6,55.7,80.8,78.9,59.6,24.4,12.9,11
+Ahwa,Average Daily Solar Radiation - Global,5.2,4.7,5.5,6.3,6.7,6.8,5.4,4.1,3.8,4.7,5.2,4.8,4.4
+Ahwa,Average Daily Solar Radiation - Diffuse,1.7,1.1,1.3,1.5,1.8,2.1,2.4,2.4,2.3,2.1,1.5,1.2,1
+Ahwa,Average Daily Solar Radiation - Reflected,5.5,5.9,6.3,6.7,6.5,6.2,5.3,4,3.6,4.7,5.8,5.8,5.4
+Ahwa,Average Daily Solar Radiation - Direct,5.6,6.8,7.1,7.4,7.1,6.7,4.2,2.5,2.3,4,6.1,6.6,6.6
+Ahwa,Maximum Daily Solar Radiation - Global,5.2,4.7,5.5,6.3,6.7,6.8,5.4,4.1,3.8,4.7,5.2,4.8,4.4
+Ahwa,Maximum Daily Solar Radiation - Diffuse,1.9,1.2,1.4,1.7,2.1,2.4,2.5,2.5,2.3,2.1,1.7,1.3,1.2
+Ahwa,Maximum Daily Solar Radiation - Reflected,6.3,6.9,6.7,7.4,7.2,6.6,6.1,5,4.6,5.6,6.6,6.3,6.1
+Ahwa,Maximum Daily Solar Radiation - Direct,6.9,8.6,7.8,8.8,8.4,7.6,5.4,3.8,3.5,5.3,7.5,7.5,7.9
+Ahwa,Minimum Daily Solar Radiation - Global,4.6,4.4,5.2,5.7,6.2,5.6,4.7,3.5,3,3.9,4.8,4.4,4.1
+Ahwa,Minimum Daily Solar Radiation - Diffuse,1.5,0.8,1.1,1.2,1.6,1.9,2.3,2.3,2.1,2,1.3,1,0.8
+Ahwa,Minimum Daily Solar Radiation - Reflected,4.9,5.4,5.9,6,6,5.2,4.6,3.4,2.9,3.8,5.2,5.3,4.9
+Ahwa,Minimum Daily Solar Radiation - Direct,4.5,6,6.4,6.1,6,4.7,3.2,1.7,1.3,2.6,5.1,5.6,5.6
+City,PARAMETER,ANNUAL,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG ,SEP,OCT,NOV,DEC
+Aizawl,Average Temperature,68.7,60.6,63.1,68.7,72,72,72,72,72.1,72.5,70.5,66.4,61.9
+Aizawl,Average High Temperature,75.7,68.7,71.1,77.4,80.2,79.3,77.9,77.5,77.9,78.3,76.5,73.4,69.8
+Aizawl,Average Low Temperature,61.5,52.5,55,60.1,63.5,64.6,66,66.4,66.4,66.6,64.4,59.2,54
+Aizawl,Average Precipitation,85.1,0.5,0.9,2.9,6.6,11.4,16,12.6,12.6,12,7.2,1.7,0.6
+Aizawl,Average Number of Days with Precipitation,104.1,0.9,1.6,3.4,7.5,13.1,17.4,17.1,18.9,13.6,7.8,2.2,0.9
+Aizawl,Average Number of Days with Frost,1.2,0.3,0.2,0.1,0.1,0.1,---,---,---,0.1,0.1,0.1,0.1
+Aizawl,Heating Degree Days,287.6,136.4,55.1,---,---,---,---,---,---,---,---,---,96.1
+Aizawl,Cooling Degree Days,1614.5,---,---,116.3,205.5,215.5,208.5,215.5,221.7,223.5,169,39,---
+Aizawl,Growing Degree Days,6805.7,328.6,368.7,581.3,655.5,680.5,658.5,680.5,686.7,673.5,634,489,368.9
+Aizawl,Average Vapor Pressure,0.7,0.4,0.5,0.5,0.7,0.8,0.9,0.9,0.9,0.9,0.8,0.6,0.5
+Aizawl,Average Length of Day,12.6,11.3,11.8,12.4,13.1,13.7,14,13.8,13.3,12.7,12,11.4,11.1
+Aizawl,Average Percent of Cloud Cover,53.5,21.2,27.9,36,48,65.3,83,87.7,87.1,78.8,53.5,31.1,22.7
+Aizawl,Average Daily Solar Radiation - Global,4.6,4.4,5,5.3,5.6,4.8,4.5,4.3,4.4,4.1,4.3,4.4,4.3
+Aizawl,Average Daily Solar Radiation - Diffuse,1.8,1,1.3,1.8,2.1,2.4,2.5,2.4,2.3,2.1,1.6,1.1,0.9
+Aizawl,Average Daily Solar Radiation - Reflected,5,5.6,6,5.7,5.4,4.5,4.1,4,4.1,4.2,4.8,5.6,5.6
+Aizawl,Average Daily Solar Radiation - Direct,4.7,6.8,6.5,5.7,5.1,3.4,2.8,2.6,3,3.2,4.5,6.3,7
+Aizawl,Maximum Daily Solar Radiation - Global,4.6,4.4,5,5.3,5.6,4.8,4.5,4.3,4.4,4.1,4.3,4.4,4.3
+Aizawl,Maximum Daily Solar Radiation - Diffuse,1.9,1.1,1.5,1.9,2.3,2.5,2.5,2.5,2.3,2.1,1.7,1.4,1.1
+Aizawl,Maximum Daily Solar Radiation - Reflected,5.8,6.3,6.9,6.7,6.3,5.7,4.9,4.7,4.8,4.9,5.8,6.4,6.2
+Aizawl,Maximum Daily Solar Radiation - Direct,6.2,8.2,8.2,7.5,6.8,5.7,4.2,3.8,4.1,4.3,6.1,7.7,8.1
+Aizawl,Minimum Daily Solar Radiation - Global,3.8,4.1,4.3,4.5,4.3,3.6,3.4,3.5,3.7,3.4,3.8,3.6,3.7
+Aizawl,Minimum Daily Solar Radiation - Diffuse,1.6,0.8,1,1.5,1.9,2.3,2.3,2.3,2.3,2,1.4,0.9,0.7
+Aizawl,Minimum Daily Solar Radiation - Reflected,4.1,5,5,4.7,4.1,3.4,3.1,3.3,3.5,3.4,4.2,4.4,4.7
+Aizawl,Minimum Daily Solar Radiation - Direct,3.3,5.7,4.8,4,2.9,1.9,1.5,1.7,2.2,2.1,3.6,4.3,5.4
+City,PARAMETER,ANNUAL,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG ,SEP,OCT,NOV,DEC
+Ajmer,Average Temperature,77.4,59.5,64.4,74.7,84.9,91.9,91.4,85.3,82.2,82.8,79.2,69.4,61.9
+Ajmer,Average High Temperature,88.9,73.2,78.3,88.3,97.7,103.5,101.1,92.5,88.3,90.7,92.3,84.6,76.5
+Ajmer,Average Low Temperature,65.5,45.7,50.5,60.8,72,80.2,81.5,78.1,75.9,74.7,65.8,54.1,47.1
+Ajmer,Average Precipitation,20.8,0.3,0.2,0.2,0.2,0.6,2.3,7.2,6.2,2.9,0.5,0.2,0.2
+Ajmer,Average Number of Days with Precipitation,30.7,0.7,0.6,0.6,0.6,1.2,2.9,8.5,9.1,4.3,1,0.9,0.5
+Ajmer,Average Number of Days with Frost,3.2,1.7,0.2,---,---,---,---,---,---,---,---,---,1.4
+Ajmer,Heating Degree Days,288.3,172.1,17,---,---,---,---,---,---,---,---,---,99.2
+Ajmer,Cooling Degree Days,4769.5,---,---,296.1,595.5,832.4,789,629.3,530.1,531,435.6,130.5,---
+Ajmer,Growing Degree Days,9619.7,293,406.8,761.1,1045.5,1116,1080,1094.3,995.1,981,900.6,580.5,365.8
+Ajmer,Average Vapor Pressure,0.4,0.2,0.2,0.2,0.3,0.4,0.7,0.8,0.8,0.7,0.3,0.2,0.2
+Ajmer,Average Length of Day,12.6,11.1,11.7,12.4,13.2,13.9,14.2,14,13.4,12.7,11.9,11.3,10.9
+Ajmer,Average Percent of Cloud Cover,27.8,16.6,14.3,25.3,20.8,22,37.1,61.8,61.6,39.2,13.9,9.3,11.6
+Ajmer,Average Daily Solar Radiation - Global,5,4,4.7,5.5,6.1,6.4,6.2,5.1,4.7,5.1,4.8,4.2,3.7
+Ajmer,Average Daily Solar Radiation - Diffuse,1.7,1,1.3,1.6,2,2.2,2.4,2.5,2.3,1.9,1.4,1.1,1
+Ajmer,Average Daily Solar Radiation - Reflected,5.4,5.2,5.7,5.9,6,5.9,5.6,4.7,4.5,5.3,5.6,5.2,5
+Ajmer,Average Daily Solar Radiation - Direct,5.5,6.1,6.2,6.1,6.2,6,5.6,3.8,3.5,5,5.8,6.1,5.9
+Ajmer,Maximum Daily Solar Radiation - Global,5,4,4.7,5.5,6.1,6.4,6.2,5.1,4.7,5.1,4.8,4.2,3.7
+Ajmer,Maximum Daily Solar Radiation - Diffuse,1.8,1.2,1.5,1.8,2.1,2.4,2.5,2.5,2.3,2,1.6,1.2,1.1
+Ajmer,Maximum Daily Solar Radiation - Reflected,6.2,6.4,6.5,6.9,6.6,6.7,6.1,6,5.4,5.7,6.3,5.8,6.1
+Ajmer,Maximum Daily Solar Radiation - Direct,7.1,8.3,7.5,7.9,7.5,8,6.9,6.6,5.1,5.7,7,7.1,7.9
+Ajmer,Minimum Daily Solar Radiation - Global,4.5,3.4,4.1,4.8,5.7,5.9,5.5,4.1,4,4.5,4.4,3.7,3.4
+Ajmer,Minimum Daily Solar Radiation - Diffuse,1.5,0.7,1.1,1.3,1.7,1.9,2.2,2.2,2.2,1.8,1.2,0.9,0.7
+Ajmer,Minimum Daily Solar Radiation - Reflected,4.7,4.2,4.9,5.2,5.5,5.4,5,3.8,3.8,4.6,5,4.6,4.4
+Ajmer,Minimum Daily Solar Radiation - Direct,4.4,4.4,4.8,4.8,5.3,5.1,4.4,2.5,2.4,3.9,4.9,4.9,4.9
+City,PARAMETER,ANNUAL,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG ,SEP,OCT,NOV,DEC
+Akbarpur,Average Temperature,78.2,59.6,64.6,75.2,85.9,93.7,94.2,87.2,84.3,84,79.3,69.2,60.7
+Akbarpur,Average High Temperature,90.7,73.7,79.3,91,101.4,108.1,104.9,94.7,90.9,92.5,92.4,84.2,75.4
+Akbarpur,Average Low Temperature,65.7,45.6,49.9,59.6,70.5,79.4,83.4,79.9,77.9,75.6,66.2,54.3,46.1
+Akbarpur,Average Precipitation,34.2,0.6,0.3,0.3,0.1,0.3,2.8,10.3,11.6,6.3,1,0.2,0.3
+Akbarpur,Average Number of Days with Precipitation,39.3,1.1,1.1,1.1,1,1,3.7,10.8,10.5,5.8,1.6,0.9,0.9
+Akbarpur,Average Number of Days with Frost,7.6,3.4,1.2,0.1,---,---,---,---,---,---,---,0.1,2.9
+Akbarpur,Heating Degree Days,13.5,6.9,1.8,---,---,---,---,---,---,---,---,---,4.8
+Akbarpur,Cooling Degree Days,168.1,---,---,8.8,19.8,27.5,29.2,23.3,20.2,20,15,4.3,---
+Akbarpur,Growing Degree Days,334.6,8.1,13.2,23.8,34.8,42.5,44.2,38.3,35.2,35,30,19.3,10.2
+Akbarpur,Average Vapor Pressure,0.5,0.3,0.3,0.3,0.3,0.5,0.8,1,0.9,0.8,0.5,0.4,0.3
+Akbarpur,Average Length of Day,12.6,11.1,11.7,12.4,13.2,13.9,14.2,14,13.4,12.7,11.9,11.3,10.9
+Akbarpur,Average Percent of Cloud Cover,35.3,24.9,18.6,28.3,23.5,29.4,52.7,70.4,69.7,49.4,24.5,13.2,18.7
+Akbarpur,Average Daily Solar Radiation - Global,5.3,4,5.2,6.4,7.1,7.3,6.1,4.7,4.6,4.6,5.2,4.7,4
+Akbarpur,Average Daily Solar Radiation - Diffuse,1.6,1,1.1,1.3,1.6,1.9,2.4,2.5,2.3,2,1.3,0.8,0.8
+Akbarpur,Average Daily Solar Radiation - Reflected,5.7,5.3,6.4,7,7,6.6,5.4,4.3,4.4,4.7,6.1,6.1,5.5
+Akbarpur,Average Daily Solar Radiation - Direct,6.2,6.3,7.4,8.2,8.3,7.7,5.3,3.2,3.4,4,6.7,7.7,6.8
+Akbarpur,Maximum Daily Solar Radiation - Global,5.3,4,5.2,6.4,7.1,7.3,6.1,4.7,4.6,4.6,5.2,4.7,4
+Akbarpur,Maximum Daily Solar Radiation - Diffuse,1.8,1.3,1.4,1.6,1.9,2.2,2.5,2.5,2.3,2,1.5,1.1,1.2
+Akbarpur,Maximum Daily Solar Radiation - Reflected,6.5,6.3,7.5,7.9,7.6,7,6.2,5.1,5.1,5.6,6.7,6.6,6.3
+Akbarpur,Maximum Daily Solar Radiation - Direct,7.7,8.1,9.3,9.9,9.6,8.6,7,4.6,4.5,5.6,7.8,8.6,8.2
+Akbarpur,Minimum Daily Solar Radiation - Global,4.5,2.8,4.5,5.7,6.4,6.5,4.5,3.8,3.8,3.7,4.6,4.3,3
+Akbarpur,Minimum Daily Solar Radiation - Diffuse,1.4,0.7,0.7,0.9,1.3,1.7,2.2,2.4,2.3,1.8,1.1,0.7,0.6
+Akbarpur,Minimum Daily Solar Radiation - Reflected,4.7,3.3,5.4,6.2,6.2,6,4.1,3.6,3.6,3.7,5.3,5.4,3.8
+Akbarpur,Minimum Daily Solar Radiation - Direct,4.5,3.1,5.6,6.6,6.6,6.3,2.9,2.1,2.3,2.6,5.4,6.3,3.9
+City,PARAMETER,ANNUAL,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG ,SEP,OCT,NOV,DEC
+Akola,Average Temperature,78,69,73,82,89,93,87,80,80,80,78,73,69
+Akola,Average High Temperature,93.7,85.8,91,99.1,105.6,108.5,99.7,90.3,87.1,90.5,93.4,89.1,85.1
+Akola,Average Low Temperature,68.4,55.6,59.7,67.5,75.6,81.1,77.9,74.3,73.4,72.5,67.5,60.1,54.3
+Akola,Average Precipitation,31.5,0.4,0.3,0.3,0.2,0.4,5.4,9,6.6,5.9,1.8,0.7,0.5
+Akola,Average Number of Days with Precipitation,46.1,0.9,0.9,1,1.1,1.3,7.4,11.5,10.2,7.2,2.6,1.1,0.8
+Akola,Average Number of Days with Frost,3.1,0.4,0.6,0.4,0.3,0.1,0.1,0.1,0.1,0.2,0.3,0.3,0.4
+Akola,Cooling Degree Days,5859,176.7,292.4,567.3,768,923.8,714,536.3,472.8,495,479,288,145.7
+Akola,Growing Degree Days,10842.9,641.7,716.1,1032.3,1080,1116,1080,1001.3,937.8,945,944,738,610.7
+Akola,Average Vapor Pressure,0.5,0.3,0.3,0.3,0.4,0.5,0.6,0.8,0.8,0.8,0.5,0.4,0.3
+Akola,Average Length of Day,12.5,11.4,11.9,12.4,13,13.5,13.8,13.6,13.2,12.6,12,11.5,11.3
+Akola,Average Percent of Cloud Cover,36,13.2,11.1,21.5,22.2,29.3,58,79.5,77.8,60.6,29.7,15.7,13.7
+Akola,Average Daily Solar Radiation - Global,5.2,4.8,5.5,6.2,6.7,6.7,5.2,4,3.6,4.6,5.2,4.8,4.5
+Akola,Average Daily Solar Radiation - Diffuse,1.7,1,1.3,1.6,1.9,2.1,2.4,2.4,2.2,2.1,1.5,1.2,1
+Akola,Average Daily Solar Radiation - Reflected,5.5,6,6.3,6.6,6.5,6.1,5.2,3.9,3.4,4.6,5.8,5.9,5.5
+Akola,Average Daily Solar Radiation - Direct,5.6,7,7.1,7.2,7.1,6.5,4,2.4,2,3.8,6.1,6.7,6.8
+Akola,Maximum Daily Solar Radiation - Global,5.2,4.8,5.5,6.2,6.7,6.7,5.2,4,3.6,4.6,5.2,4.8,4.5
+Akola,Maximum Daily Solar Radiation - Diffuse,1.9,1.2,1.5,1.8,2.1,2.4,2.5,2.5,2.3,2.1,1.7,1.4,1.3
+Akola,Maximum Daily Solar Radiation - Reflected,6.2,6.9,6.8,7.3,7.2,6.6,5.9,4.9,4,5.4,6.6,6.4,6.2
+Akola,Maximum Daily Solar Radiation - Direct,6.7,8.6,8.1,8.6,8.6,7.5,5.1,3.7,2.7,5,7.4,7.6,8.1
+Akola,Minimum Daily Solar Radiation - Global,4.3,4.4,4.8,5.5,6,5.5,4.3,3.3,2.5,2.9,4.5,4.3,3.6
+Akola,Minimum Daily Solar Radiation - Diffuse,1.5,0.8,1.1,1.3,1.5,2,2.4,2.3,1.9,1.9,1.3,1,0.8
+Akola,Minimum Daily Solar Radiation - Reflected,4.5,5.4,5.5,5.8,5.8,5.1,4.2,3.2,2.3,2.9,4.9,5.1,4.3
+Akola,Minimum Daily Solar Radiation - Direct,4,6,5.6,5.7,5.6,4.4,2.6,1.5,0.8,1.4,4.5,5.4,4.5
+City,PARAMETER,ANNUAL,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG ,SEP,OCT,NOV,DEC
+Alibag,Average Temperature,54.8,52.2,52.7,54.6,56.4,57.4,56.2,54.9,54.6,54.8,55.7,54.5,53.1
+Alibag,Average High Temperature,58.9,58,58.3,59.8,60.8,61.3,59.1,57.1,56.9,57.6,59.9,59.8,58.7
+Alibag,Average Low Temperature,50.6,46.6,47,49.6,52,53.6,53.3,52.7,52.4,51.9,51.5,49.4,47.6
+Alibag,Average Precipitation,33.9,---,---,---,0.1,0.5,8.8,10.7,7,4.8,1.5,0.4,0.1
+Alibag,Average Number of Days with Precipitation,36.9,---,0.1,---,0.3,0.6,7.6,10.8,9.1,5.7,1.8,0.7,0.1
+Alibag,Average Number of Days with Frost,0.1,---,---,---,---,---,---,---,---,---,---,---,---
+Alibag,Cooling Degree Days,185.9,5.8,9.8,17.8,24.9,29.2,23.5,16.5,14.8,15.5,14.8,8.6,4.7
+Alibag,Growing Degree Days,365.9,20.8,24.8,32.8,39.9,44.2,38.5,31.5,29.8,30.5,29.8,23.6,19.7
+Alibag,Average Vapor Pressure,0.3,0.2,0.2,0.3,0.3,0.4,0.4,0.4,0.4,0.4,0.3,0.3,0.3
+Alibag,Average Length of Day,12.5,11.5,11.9,12.4,13,13.4,13.6,13.5,13.1,12.6,12.1,11.6,11.4
+Alibag,Average Percent of Cloud Cover,17.4,6.9,7,9.9,10.8,13.9,26.8,36.7,36.2,27.4,14.5,9.6,8.5
+Alibag,Average Daily Solar Radiation - Global,5.1,5,5.7,6.4,6.7,6.6,4.6,3.6,3.5,4.4,5.2,4.9,4.6
+Alibag,Average Daily Solar Radiation - Diffuse,1.8,1.1,1.3,1.6,1.9,2.1,2.4,2.3,2.2,2.1,1.6,1.2,1.1
+Alibag,Average Daily Solar Radiation - Reflected,5.4,6,6.4,6.7,6.5,6.1,4.6,3.5,3.3,4.4,5.6,5.8,5.7
+Alibag,Average Daily Solar Radiation - Direct,5.3,7.1,7.2,7.4,7,6.3,3.2,1.9,1.9,3.3,5.7,6.6,6.6
+Alibag,Maximum Daily Solar Radiation - Global,5.1,5,5.7,6.4,6.7,6.6,4.6,3.6,3.5,4.4,5.2,4.9,4.6
+Alibag,Maximum Daily Solar Radiation - Diffuse,1.9,1.2,1.5,1.8,2.1,2.4,2.4,2.4,2.4,2.2,1.8,1.4,1.3
+Alibag,Maximum Daily Solar Radiation - Reflected,6.1,6.7,7,7.3,7,6.4,5.3,4.7,4.3,5.1,6.2,6.4,6.4
+Alibag,Maximum Daily Solar Radiation - Direct,6.5,8.4,8.3,8.5,8.1,7,4.2,3.3,3.2,4.4,6.7,7.5,7.8
+Alibag,Minimum Daily Solar Radiation - Global,4.5,4.7,5.3,5.9,6.2,5.5,3.9,2.7,2.5,3.3,4.7,4.6,4.2
+Alibag,Minimum Daily Solar Radiation - Diffuse,1.6,0.9,1.1,1.3,1.7,2,2.4,2,1.9,2.1,1.5,1.1,0.9
+Alibag,Minimum Daily Solar Radiation - Reflected,4.7,5.7,5.9,6.1,6,5.1,3.9,2.7,2.4,3.3,5.1,5.4,5
+Alibag,Minimum Daily Solar Radiation - Direct,4.3,6.4,6.3,6.2,6,4.4,2.2,1,0.9,1.8,4.7,5.7,5.4
+City,PARAMETER,ANNUAL,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG ,SEP,OCT,NOV,DEC
+Aligarh,Average Temperature,77.9,58.1,63.2,73.8,84.8,92.5,94.2,88.3,85.2,85,80,69.3,60.2
+Aligarh,Average High Temperature,89.8,71.2,76.7,88.1,99,105.8,104.9,95.8,91.9,93.7,92.8,83.8,74
+Aligarh,Average Low Temperature,66,45,49.8,59.6,70.6,79.3,83.6,80.7,78.5,76.3,67.1,55,46.5
+Aligarh,Average Precipitation,26.5,0.5,0.5,0.3,0.2,0.4,2,8.1,9,4.6,0.5,0.2,0.2
+Aligarh,Average Number of Days with Precipitation,35.8,1.5,1.1,1.1,1,1.4,3.4,9.8,9.6,4.6,1.2,0.4,0.8
+Aligarh,Average Number of Days with Frost,5.1,2.6,0.7,---,---,---,---,---,---,---,---,---,1.8
+Aligarh,Heating Degree Days,7,3.9,---,---,---,---,---,---,---,---,---,---,3.1
+Aligarh,Cooling Degree Days,161,---,0.7,11.2,20.9,28,27.1,20,17.7,17.6,13.6,4.2,---
+Aligarh,Growing Degree Days,334,11.1,15.7,26.2,35.9,43,42.1,35,32.7,32.6,28.6,19.2,11.9
+Aligarh,Average Vapor Pressure,0.5,0.3,0.3,0.3,0.3,0.4,0.7,0.9,0.9,0.8,0.5,0.3,0.3
+Aligarh,Average Length of Day,12.6,11,11.6,12.4,13.3,14,14.3,14.1,13.5,12.7,11.9,11.2,10.8
+Aligarh,Average Percent of Cloud Cover,32.7,25.3,19.7,29.4,23.9,28.3,47.1,63.6,63.3,43,20,10.8,18.5
+Aligarh,Average Daily Solar Radiation - Global,5.2,3.8,4.9,6,6.6,6.7,6.2,5.2,4.8,5,5,4.2,3.6
+Aligarh,Average Daily Solar Radiation - Diffuse,1.6,0.9,1.1,1.3,1.8,2.1,2.4,2.5,2.3,1.8,1.2,0.9,0.9
+Aligarh,Average Daily Solar Radiation - Reflected,5.6,5.2,6.2,6.7,6.5,6.1,5.5,4.8,4.6,5.2,6.1,5.6,5
+Aligarh,Average Daily Solar Radiation - Direct,6,6.1,7,7.6,7.3,6.6,5.4,4.1,3.7,5,6.7,6.8,5.9
+Aligarh,Maximum Daily Solar Radiation - Global,5.2,3.8,4.9,6,6.6,6.7,6.2,5.2,4.8,5,5,4.2,3.6
+Aligarh,Maximum Daily Solar Radiation - Diffuse,1.8,1.2,1.4,1.7,2,2.4,2.5,2.5,2.3,2,1.5,1.1,1.1
+Aligarh,Maximum Daily Solar Radiation - Reflected,6.5,6.2,7,7.8,7.3,6.6,5.9,5.9,5.8,6.2,7.2,6.5,6.1
+Aligarh,Maximum Daily Solar Radiation - Direct,7.8,7.9,8.4,9.7,8.9,7.8,6.4,6.4,5.9,6.8,8.8,8.4,7.8
+Aligarh,Minimum Daily Solar Radiation - Global,4.4,3,4,5.2,6.1,5.9,5.7,4.5,3.6,3.9,4.3,3.7,2.8
+Aligarh,Minimum Daily Solar Radiation - Diffuse,1.3,0.7,0.8,0.9,1.4,1.9,2.3,2.2,2.1,1.6,0.8,0.6,0.6
+Aligarh,Minimum Daily Solar Radiation - Reflected,4.6,3.8,4.9,5.6,6,5.4,5.1,4.1,3.4,4,5.1,4.7,3.7
+Aligarh,Minimum Daily Solar Radiation - Direct,4.3,3.8,4.9,5.7,6.3,5.1,4.6,2.9,2,3,5,5.1,3.7
+City,PARAMETER,ANNUAL,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG ,SEP,OCT,NOV,DEC
+Allahabad,Average Temperature,79,61.2,66.4,77,87.3,93.7,93.6,86.5,84.6,84.2,79.9,70.5,62.6
+Allahabad,Average High Temperature,90.7,74.3,80.1,92.1,102.4,107.2,103.6,93.2,90.5,91.4,91.4,84.6,76.3
+Allahabad,Average Low Temperature,67.3,48,52.5,61.9,72.1,80.1,83.3,79.9,78.6,77,68.4,56.3,48.9
+Allahabad,Highest Recorded Temperature,115,91,95,108,113,115,114,111,103,104,106,100,90
+Allahabad,Lowest Recorded Temperature,28,40,41,45,57,63,68,68,68,59,57,41,28
+Allahabad,Average Number of Days Above 90F/32C,167,---,1,15,27,30,26,18,17,15,16,3,---
+Allahabad,Average Number of Days Above 80F/26C,269,2,10,27,29,31,30,30,30,28,28,21,3
+Allahabad,Average Number of Days Below 45F/7C,7,4,1,---,---,---,---,---,---,---,---,---,2
+Allahabad,Average Precipitation,38.7,0.7,0.6,0.3,0.2,0.3,3.8,11.8,11.6,6.9,1.8,0.3,0.2
+Allahabad,Average Number of Days With Thunderstorms,26,1,1,1,1,2,3,6,6,4,1,---,---
+Allahabad,Most Rain Reported in a Month,76.2,5,4.1,3.4,1.7,2.9,20.7,30.8,36,30,22.5,3.6,2.9
+Allahabad,Least Recorded Rainfall,15.7,---,---,---,---,---,---,1,0.6,---,---,---,---
+Allahabad,Average Morning Relative Humidity,79,88,82,67,52,56,67,89,92,92,88,86,88
+Allahabad,Average Evening Relative Humidity,49,54,43,28,20,23,43,71,74,71,57,50,54
+Allahabad,Average Dew Point,60,49,50,49,52,59,69,77,78,76,67,55,50
+Allahabad,Heating Degree Days,193.8,119.4,---,---,---,---,---,---,---,---,---,---,74.4
+Allahabad,Cooling Degree Days,5293.5,---,36.7,372,667.5,888.2,853.5,668.1,606.1,576,461.9,163.5,---
+Allahabad,Growing Degree Days,10063.3,345.7,460.5,837,1080,1116,1080,1116,1071.1,1026,926.9,613.5,390.6
+Allahabad,Average Length of Day,12.6,11.2,11.7,12.4,13.2,13.8,14.1,14,13.4,12.7,11.9,11.3,11
+Allahabad,Average Number of Days With Fog,31,12,4,1,---,---,---,---,---,1,2,2,9
+Allahabad,Average Wind Speed,8,5,6,8,8,8,9,8,8,8,6,5,6
+Allahabad,Average Daily Solar Radiation - Global,5,3.9,4.9,6.1,6.6,6.5,5.7,4.6,4.4,4.5,4.7,4.4,3.8
+Allahabad,Average Daily Solar Radiation - Diffuse,1.7,1.1,1.3,1.4,1.8,2.2,2.5,2.5,2.3,2,1.5,1.1,1
+Allahabad,Average Daily Solar Radiation - Reflected,5.3,4.9,5.9,6.6,6.4,6,5.1,4.2,4.2,4.6,5.4,5.4,5
+Allahabad,Average Daily Solar Radiation - Direct,5.4,5.6,6.5,7.4,7,6.3,4.7,3,3,3.9,5.5,6.4,5.8
+Allahabad,Maximum Daily Solar Radiation - Global,5,3.9,4.9,6.1,6.6,6.5,5.7,4.6,4.4,4.5,4.7,4.4,3.8
+Allahabad,Maximum Daily Solar Radiation - Diffuse,1.9,1.3,1.5,1.7,2.1,2.3,2.5,2.5,2.3,2.1,1.6,1.2,1.3
+Allahabad,Maximum Daily Solar Radiation - Reflected,6,5.6,6.9,7.3,7.1,6.4,5.7,4.9,4.8,5.4,6,5.9,5.4
+Allahabad,Maximum Daily Solar Radiation - Direct,6.6,6.9,8.3,8.6,8.5,7.3,5.9,4.2,3.9,5.1,6.5,7.3,6.7
+Allahabad,Minimum Daily Solar Radiation - Global,4.3,3.1,4.4,5.6,6,6.2,4.6,3.7,3.6,3.7,4.3,3.9,2.7
+Allahabad,Minimum Daily Solar Radiation - Diffuse,1.6,0.9,0.9,1.2,1.5,2,2.3,2.4,2.2,1.9,1.4,0.9,0.9
+Allahabad,Minimum Daily Solar Radiation - Reflected,4.5,3.7,5.2,6,5.8,5.7,4.2,3.5,3.4,3.7,4.9,4.7,3.3
+Allahabad,Minimum Daily Solar Radiation - Direct,4.1,3.6,5.2,6.2,5.8,5.7,3,1.9,2,2.6,4.6,5.1,3.1
+City,PARAMETER,ANNUAL,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG ,SEP,OCT,NOV,DEC
+Allahabad - George Town,Average Temperature,77.8,61.1,65.7,76.2,85.9,93,92.1,85,82.7,82.6,78.6,69.2,61.9
+Allahabad - George Town,Average High Temperature,89.7,74.6,79.8,91.4,100.9,106.9,102.6,91.9,88.8,90.3,90.1,83.1,75.9
+Allahabad - George Town,Average Low Temperature,66.1,47.7,51.7,61.1,70.9,79.2,81.7,78.2,76.7,75,67.2,55.4,48
+Allahabad - George Town,Average Precipitation,40.8,0.9,0.7,0.5,0.2,0.3,4,11.9,13.3,7.1,1.2,0.4,0.2
+Allahabad - George Town,Average Number of Days with Precipitation,52.2,1.8,1.8,1.4,0.9,1.1,5.7,13.4,13.9,8.5,2.1,0.8,0.8
+Allahabad - George Town,Average Number of Days with Frost,3.8,1.4,0.3,0.2,0.1,---,---,---,---,---,0.1,0.2,1.5
+Allahabad - George Town,Heating Degree Days,15.5,7.6,2.6,---,---,---,---,---,---,---,---,---,5.3
+Allahabad - George Town,Cooling Degree Days,159.4,---,---,7.5,18.6,25.9,27.5,22.4,20.2,19.5,14.1,3.7,---
+Allahabad - George Town,Growing Degree Days,323.9,7.4,12.4,22.5,33.6,40.9,42.5,37.4,35.2,34.5,29.1,18.7,9.7
+Allahabad - George Town,Average Vapor Pressure,0.6,0.3,0.3,0.3,0.3,0.5,0.8,1,0.9,0.9,0.6,0.4,0.4
+Allahabad - George Town,Average Length of Day,12.6,11.2,11.7,12.4,13.2,13.8,14.1,14,13.4,12.7,11.9,11.3,11
+Allahabad - George Town,Average Percent of Cloud Cover,37,24.8,19.3,27.2,22.7,30.5,56,73.6,72.5,53.3,28.9,15.5,19.3
+Allahabad - George Town,Average Daily Solar Radiation - Global,5,3.9,4.9,6.1,6.6,6.5,5.7,4.6,4.4,4.5,4.7,4.4,3.8
+Allahabad - George Town,Average Daily Solar Radiation - Diffuse,1.7,1.1,1.3,1.4,1.8,2.2,2.5,2.5,2.3,2,1.5,1.1,1
+Allahabad - George Town,Average Daily Solar Radiation - Reflected,5.3,4.9,5.9,6.6,6.4,6,5.1,4.2,4.2,4.6,5.4,5.4,5
+Allahabad - George Town,Average Daily Solar Radiation - Direct,5.4,5.6,6.5,7.4,7,6.3,4.7,3,3,3.9,5.5,6.4,5.8
+Allahabad - George Town,Maximum Daily Solar Radiation - Global,5,3.9,4.9,6.1,6.6,6.5,5.7,4.6,4.4,4.5,4.7,4.4,3.8
+Allahabad - George Town,Maximum Daily Solar Radiation - Diffuse,1.9,1.3,1.5,1.7,2.1,2.3,2.5,2.5,2.3,2.1,1.6,1.2,1.3
+Allahabad - George Town,Maximum Daily Solar Radiation - Reflected,6,5.6,6.9,7.3,7.1,6.4,5.7,4.9,4.8,5.4,6,5.9,5.4
+Allahabad - George Town,Maximum Daily Solar Radiation - Direct,6.6,6.9,8.3,8.6,8.5,7.3,5.9,4.2,3.9,5.1,6.5,7.3,6.7
+Allahabad - George Town,Minimum Daily Solar Radiation - Global,4.3,3.1,4.4,5.6,6,6.2,4.6,3.7,3.6,3.7,4.3,3.9,2.7
+Allahabad - George Town,Minimum Daily Solar Radiation - Diffuse,1.6,0.9,0.9,1.2,1.5,2,2.3,2.4,2.2,1.9,1.4,0.9,0.9
+Allahabad - George Town,Minimum Daily Solar Radiation - Reflected,4.5,3.7,5.2,6,5.8,5.7,4.2,3.5,3.4,3.7,4.9,4.7,3.3
+Allahabad - George Town,Minimum Daily Solar Radiation - Direct,4.1,3.6,5.2,6.2,5.8,5.7,3,1.9,2,2.6,4.6,5.1,3.1
+City,PARAMETER,ANNUAL,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG ,SEP,OCT,NOV,DEC
+Almora,Average Temperature,74.3,55.9,60.5,69.9,80.7,87,87.9,83.7,83.2,81.6,76,67,58.5
+Almora,Average High Temperature,85.8,68.1,73.1,83.6,94.9,100.6,98.5,91.2,90.4,89.9,87.9,80.5,71.2
+Almora,Average Low Temperature,62.9,43.9,48,56.3,66.7,73.5,77.4,76.4,76.1,73.3,64.2,53.6,45.9
+Almora,Average Precipitation,44.6,1,1,0.8,0.6,1.3,5.5,12.5,13,6.8,1.4,0.2,0.4
+Almora,Average Number of Days with Precipitation,46.8,2.1,2,1.9,1.3,1.9,4.9,11.3,11.9,6.2,1.8,0.6,1
+Almora,Average Number of Days with Frost,15.2,6.3,3.8,0.1,---,---,---,---,---,---,---,0.7,4.4
+Almora,Heating Degree Days,36,13.2,9.4,0.5,---,---,---,---,---,---,---,2.7,10.2
+Almora,Cooling Degree Days,81.7,---,---,---,9.4,15.2,16.2,12.8,12.2,10.6,5.3,---,---
+Almora,Growing Degree Days,225.7,1.8,5.6,14.5,24.4,30.2,31.2,27.8,27.2,25.6,20.3,12.3,4.8
+Almora,Average Vapor Pressure,0.5,0.3,0.3,0.3,0.3,0.5,0.7,0.9,0.9,0.8,0.5,0.3,0.3
+Almora,Average Length of Day,12.6,10.9,11.6,12.4,13.3,14.1,14.5,14.3,13.6,12.7,11.8,11.1,10.7
+Almora,Average Percent of Cloud Cover,37.3,32.4,28.6,34.7,28.6,34.9,49.8,63.9,63.3,44.4,23.8,16.2,26.7
+Almora,Average Daily Solar Radiation - Global,4.8,3.3,3.9,4.6,5.4,6.1,6.2,5.8,5.3,5.1,4.8,4,3.3
+Almora,Average Daily Solar Radiation - Diffuse,1.7,1,1.3,1.7,2.1,2.3,2.4,2.4,2.2,1.8,1.2,0.9,0.8
+Almora,Average Daily Solar Radiation - Reflected,5.3,4.6,5,5.2,5.3,5.6,5.5,5.2,5.1,5.4,6,5.5,4.9
+Almora,Average Daily Solar Radiation - Direct,5.4,4.9,4.9,5,5.1,5.7,5.6,4.9,4.6,5.4,6.7,6.5,5.6
+Almora,Maximum Daily Solar Radiation - Global,4.8,3.3,3.9,4.6,5.4,6.1,6.2,5.8,5.3,5.1,4.8,4,3.3
+Almora,Maximum Daily Solar Radiation - Diffuse,1.8,1.1,1.4,1.8,2.2,2.5,2.5,2.5,2.3,1.9,1.5,1.2,1.1
+Almora,Maximum Daily Solar Radiation - Reflected,6.3,5.6,5.9,6.9,6.9,6.4,6.2,5.9,5.7,6.8,7.2,6.5,5.9
+Almora,Maximum Daily Solar Radiation - Direct,7.3,6.7,6.4,8,8.1,7.4,7.2,6.4,5.9,7.9,8.7,8.3,7.3
+Almora,Minimum Daily Solar Radiation - Global,3.9,2.7,3.3,3.4,4.7,4.8,5,5,4.5,4.3,3.7,3.2,2.5
+Almora,Minimum Daily Solar Radiation - Diffuse,1.4,0.8,1.1,1.3,1.6,2,2.2,2.2,2.1,1.4,0.8,0.6,0.6
+Almora,Minimum Daily Solar Radiation - Reflected,4.2,3.7,4.1,3.7,4.6,4.5,4.5,4.6,4.3,4.5,4.3,4.3,3.4
+Almora,Minimum Daily Solar Radiation - Direct,3.6,3.5,3.6,2.6,3.8,3.5,3.6,3.7,3.3,3.9,3.9,4.4,3.3

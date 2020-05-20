@@ -38,7 +38,7 @@ def getSoup(city):
     element = WebDriverWait(driver, 30).until(
         EC.element_to_be_clickable((By.LINK_TEXT, "Show All Data"))
     ).click()
-
+    time.sleep(3)
     html = driver.page_source
     page_soup = soup(html, features="html.parser")
     driver.close()
@@ -75,7 +75,7 @@ def getData(city):
                 a_parameter.append(td.text)
         #neglect trash
         if len(a_parameter) > 10:
-            data[i] = data[i] + a_parameter[1:]
+            data[i] = [city] + data[i] + a_parameter[1:]
             i = i + 1
     #return data in list format
     return data
@@ -86,10 +86,10 @@ def makeCSV(city):
     data_city = getData(city)
     x = ".csv"
     #Creates csv file with city name
-    with open(city+x, 'w', newline='') as file:
+    with open("data.csv", 'a', newline='') as file:
         writer = csv.writer(file)
         #Make first row
-        writer.writerow(["PARAMETER","ANNUAL","JAN","FEB","MAR","APR","MAY","JUN","JUL","AUG ","SEP","OCT","NOV","DEC"])
+        writer.writerow(["City","PARAMETER","ANNUAL","JAN","FEB","MAR","APR","MAY","JUN","JUL","AUG ","SEP","OCT","NOV","DEC"])
         #Loop through items in data list
         for para in data_city:
             if (len(para)) > 0:
@@ -101,9 +101,12 @@ def makeCSV(city):
 
 print("sample test case started")
 
-print(cities())
-
-city = input("Type city name: ")
-makeCSV(city)
+names = cities()
+print("Cities list generated")
+i=18
+for city in names[i:100]:
+    makeCSV(city)
+    print(i, " done", city)
+    i = i + 1
 
 print("sample test case successfully completed")
