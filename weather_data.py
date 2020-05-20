@@ -7,47 +7,12 @@ import time
 import csv
 from selenium.webdriver.common.keys import Keys
 
-#Get list of all available cities
-def cities():
-    driver = webdriver.Chrome()
-    #navigate to the url
-    driver.get("http://www.weatherbase.com/weather/city.php3?c=IN&name=India")
-    time.sleep(2)
-
-    html = driver.page_source
-    page_soup = soup(html, features="html.parser")
-    driver.close()
-    list_city = []
-    for name in page_soup.find_all("li"):
-        #total 677 cities are there
-        if (len(list_city)) < 678:
-            list_city.append(name.text)
-
-    return(list_city)
-
 #returns soup of the data from city page
-def getSoup(city):
-    driver = webdriver.Chrome()
-    #navigate to the url
-    driver.get("http://www.weatherbase.com/weather/city.php3?c=IN&name=India")
-    #search city and click
-    WebDriverWait(driver, 30).until(
-        EC.element_to_be_clickable((By.LINK_TEXT, city))
-    ).click()
-    #Go to all data
-    element = WebDriverWait(driver, 30).until(
-        EC.element_to_be_clickable((By.LINK_TEXT, "Show All Data"))
-    ).click()
-    time.sleep(3)
-    html = driver.page_source
-    page_soup = soup(html, features="html.parser")
-    driver.close()
-    return page_soup
 
 #returns data in list format if city name is given
-def getData(city):
+def getData(city, soup):
     #calls getSoup to have soup of the city
-    soup = getSoup(city)
+    #soup = getSoup(city)
     #initialize data list
     data = []
     #filter out all the tables in page
@@ -81,9 +46,9 @@ def getData(city):
     return data
 
 #makes csv file for a city
-def makeCSV(city):
+def makeCSV(city, soup):
     #calls getData to get data in list format
-    data_city = getData(city)
+    data_city = getData(city, soup)
     x = ".csv"
     #Creates csv file with city name
     with open("data.csv", 'a', newline='') as file:
@@ -100,13 +65,38 @@ def makeCSV(city):
 #main function starts here
 
 print("sample test case started")
+with open("city.txt", 'r') as file:
+    names = file.readlines()
 
-names = cities()
+print(len(names))
 print("Cities list generated")
-i=18
+driver = webdriver.Chrome()
+#navigate to the url
+driver.get("http://www.weatherbase.com/weather/city.php3?c=IN&name=India")
+
+i=75
 for city in names[i:100]:
-    makeCSV(city)
+    city = city.strip()
+    print("Starting...", city)
+
+    #search city and click
+    WebDriverWait(driver, 30).until(
+        EC.element_to_be_clickable((By.LINK_TEXT, city))
+    ).click()
+    #Go to all data
+    element = WebDriverWait(driver, 30).until(
+        EC.element_to_be_clickable((By.LINK_TEXT, "Show All Data"))
+    ).click()
+    time.sleep(3)
+    html = driver.page_source
+    page_soup = soup(html, features="html.parser")
+
+    makeCSV(city,page_soup)
     print(i, " done", city)
     i = i + 1
 
+    driver.back()
+    driver.back()
+
+driver.close()
 print("sample test case successfully completed")
