@@ -74,8 +74,8 @@ driver = webdriver.Chrome()
 #navigate to the url
 driver.get("http://www.weatherbase.com/weather/city.php3?c=IN&name=India")
 
-i=75
-for city in names[i:100]:
+i=300
+for city in names[i:500]:
     city = city.strip()
     print("Starting...", city)
 
