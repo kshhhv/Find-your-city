@@ -1,8 +1,29 @@
 from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup as soup
 import time
 import csv
 from selenium.webdriver.common.keys import Keys
+
+#Get list of all available cities
+def cities():
+    driver = webdriver.Chrome()
+    #navigate to the url
+    driver.get("http://www.weatherbase.com/weather/city.php3?c=IN&name=India")
+    time.sleep(2)
+
+    html = driver.page_source
+    page_soup = soup(html, features="html.parser")
+    driver.close()
+    list_city = []
+    for name in page_soup.find_all("li"):
+        #total 677 cities are there
+        if (len(list_city)) < 678:
+            list_city.append(name.text)
+
+    return(list_city)
 
 #returns soup of the data from city page
 def getSoup(city):
@@ -10,13 +31,14 @@ def getSoup(city):
     #navigate to the url
     driver.get("http://www.weatherbase.com/weather/city.php3?c=IN&name=India")
     #search city and click
-    driver.implicitly_wait(15)
-    driver.find_element_by_link_text(city).click()
-    driver.implicitly_wait(15)
-    #Show all data of the city
-    driver.find_element_by_link_text("Show All Data").click()
-    #driver.find_element_by_link_text("Monthly - All Data").click()
-    time.sleep(5)
+    WebDriverWait(driver, 30).until(
+        EC.element_to_be_clickable((By.LINK_TEXT, city))
+    ).click()
+    #Go to all data
+    element = WebDriverWait(driver, 30).until(
+        EC.element_to_be_clickable((By.LINK_TEXT, "Show All Data"))
+    ).click()
+
     html = driver.page_source
     page_soup = soup(html, features="html.parser")
     driver.close()
@@ -78,6 +100,8 @@ def makeCSV(city):
 #main function starts here
 
 print("sample test case started")
+
+print(cities())
 
 city = input("Type city name: ")
 makeCSV(city)
