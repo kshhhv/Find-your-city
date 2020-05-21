@@ -8,6 +8,24 @@ import csv
 from selenium.webdriver.common.keys import Keys
 
 #returns soup of the data from city page
+def souper(city, driver):
+    #search city and click
+    WebDriverWait(driver, 30).until(
+        EC.element_to_be_clickable((By.LINK_TEXT, city))
+    ).click()
+    #Go to all data
+    element = WebDriverWait(driver, 30).until(
+        EC.element_to_be_clickable((By.LINK_TEXT, "Show All Data"))
+    ).click()
+    time.sleep(3)
+    html = driver.page_source
+    page_soup = soup(html, features="html.parser")
+
+    makeCSV(city,page_soup)
+
+
+    driver.back()
+    driver.back()
 
 #returns data in list format if city name is given
 def getData(city, soup):
@@ -74,29 +92,13 @@ driver = webdriver.Chrome()
 #navigate to the url
 driver.get("http://www.weatherbase.com/weather/city.php3?c=IN&name=India")
 
-i=303
+i=331
 for city in names[i:500]:
     city = city.strip()
     print("Starting...", city)
-
-    #search city and click
-    WebDriverWait(driver, 30).until(
-        EC.element_to_be_clickable((By.LINK_TEXT, city))
-    ).click()
-    #Go to all data
-    element = WebDriverWait(driver, 30).until(
-        EC.element_to_be_clickable((By.LINK_TEXT, "Show All Data"))
-    ).click()
-    time.sleep(3)
-    html = driver.page_source
-    page_soup = soup(html, features="html.parser")
-
-    makeCSV(city,page_soup)
+    souper(city, driver)
     print(i, " done", city)
-    i = i + 1
-
-    driver.back()
-    driver.back()
+    i = i +1
 
 driver.close()
 print("sample test case successfully completed")
