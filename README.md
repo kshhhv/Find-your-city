@@ -7,7 +7,7 @@ The project generates an image which is the Indian version of xkcd comic [Temper
 ## Methodology
 
 The complete data of all Indian location from weatherbase was stored in [data.csv](https://github.com/kshhhv/xkcd-WHERE-TO-LIVE-IN-INDIA/blob/master/data.csv) file using the [data.py](https://github.com/kshhhv/xkcd-WHERE-TO-LIVE-IN-INDIA/blob/master/data.py). This data was then cleaned using [dew_data.py](https://github.com/kshhhv/xkcd-WHERE-TO-LIVE-IN-INDIA/blob/master/dew_data.py) to include only those city in analysis for which the required "Dew Point" data was available, the cleaned data was then stored in [dew_data](https://github.com/kshhhv/xkcd-WHERE-TO-LIVE-IN-INDIA/blob/master/dew_data.csv).
-The final processing of data and plotting was done in [xkcd_data.py](https://github.com/kshhhv/xkcd-WHERE-TO-LIVE-IN-INDIA/blob/master/xkcd_data.py). The humidex of city for each month was calculated using the expression,
+The final processing of data and plotting was done in [xkcd_data.py](https://github.com/kshhhv/xkcd-WHERE-TO-LIVE-IN-INDIA/blob/master/xkcd_data.py). The humidex of city for each month was calculated using the expression<sup>[[1]](https://climate.weather.gc.ca/glossary_e.html)</sup>,
 
 <p align="center">
 <img src="https://latex.codecogs.com/gif.latex?\text{Temperature%20\(Celsius)}%+%200.5555\left(6.11e^{5417.753(\frac{1}{273.16}-\frac{1}{273.15+Dew%20Point})}%20-%2010\right)">
