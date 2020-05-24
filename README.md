@@ -10,7 +10,7 @@ The complete data of all Indian location from weatherbase was stored in [data.cs
 The final processing of data and plotting was done in [xkcd_data.py](https://github.com/kshhhv/xkcd-WHERE-TO-LIVE-IN-INDIA/blob/master/xkcd_data.py). The humidex of city for each month was calculated using the expression<sup>[[1]](https://climate.weather.gc.ca/glossary_e.html)</sup>,
 
 <p align="center">
-<img src="https://latex.codecogs.com/gif.latex?\text{Temperature%20\(Celsius)}%+%200.5555\left(6.11e^{5417.753(\frac{1}{273.16}-\frac{1}{273.15+Dew%20Point})}%20-%2010\right)">
+<img src="https://latex.codecogs.com/gif.latex?\text{Temperature\(Celsius)}+0.5555\left(6.11e^{5417.753(\frac{1}{273.16}-\frac{1}{273.15+Dew%20Point})}%20-%2010\right)">
 </p>
 
 Next, the data of every city was sorted by their average temperature. The average temperature of four coldest month was taken for winter data and average humidex of four hottest months was taken for summer data of the city. These data were then plotted on x and y axis of the graph respectively.
