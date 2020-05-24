@@ -2,7 +2,6 @@ import csv
 import math
 import xkcd
 import matplotlib.pyplot as plt
-import pylab
 from adjustText import adjust_text
 
 #Read the raw file and return it in list
