@@ -19,8 +19,6 @@ for name in page_soup.find_all("li"):
     if (len(list_city)) < 678:
         list_city.append(name.text)
 
-print(list_city)
-
 with open("city.txt", 'w', newline='') as file:
     for city in list_city:
         file.write(city)
